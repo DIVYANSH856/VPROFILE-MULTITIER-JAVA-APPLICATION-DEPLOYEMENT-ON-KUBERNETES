@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name:  vpromq01-port
+  name:  vpromq01
 spec:
   selector:
     app:  vpromq01
